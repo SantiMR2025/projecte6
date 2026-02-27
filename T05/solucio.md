@@ -30,6 +30,7 @@ Protecció de dades en repos amb VeraCrypt
 
 ### 3.1 Configuració del volum xifrat
 
+*   instalacio de VeraCrypt
 *   Tipus de volum: Standard File Container
 *   Tamany: 100 MB
 *   Algorisme de xifratge: AES‑256
@@ -37,7 +38,23 @@ Protecció de dades en repos amb VeraCrypt
 *   Nom del volum: `exam_nexus.vc`
 
 **Captura requerida:** Configuració del volum amb AES‑256  
-\[Inserir captura]
+instalacio
+![img](img/0001.png)
+![img](img/0002.png)
+![img](img/0003.png)
+![img](img/0004.png)
+configuracio
+![img](img/0016.png)
+![img](img/0007.png)
+![img](img/0008.png)
+![img](img/0011.png)
+![img](img/0012.png)
+![img](img/0013.png)
+![img](img/0014.png)
+
+
+
+
 
 ***
 
