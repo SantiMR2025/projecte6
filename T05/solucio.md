@@ -38,22 +38,19 @@ Protecció de dades en repos amb VeraCrypt
 *   Nom del volum: `exam_nexus.vc`
 
 **Captura requerida:** Configuració del volum amb AES‑256  
-instalacio
+
 ![img](img/0001.png)
 ![img](img/0002.png)
 ![img](img/0003.png)
 ![img](img/0004.png)
-configuracio
 ![img](img/0016.png)
 ![img](img/0007.png)
 ![img](img/0008.png)
 ![img](img/0011.png)
 ![img](img/0012.png)
 ![img](img/0013.png)
+![img](img/0015.png)
 ![img](img/0014.png)
-
-
-
 
 
 ***
@@ -66,8 +63,7 @@ A la unitat muntada (per exemple X:), s’ha creat:
 
 Contingut: preguntes d'examen de prova.
 
-**Captura requerida:** Unitat X: mostrant el fitxer  
-\[Inserir captura]
+![img](img/0017.png)
 
 ***
 
@@ -76,8 +72,7 @@ Contingut: preguntes d'examen de prova.
 1.  Amb la unitat muntada, el fitxer pot ser obert.
 2.  En desmuntar el volum, la unitat desapareix i el fitxer deixa de ser accessible.
 
-**Captura requerida:** Explorador sense la unitat X:  
-\[Inserir captura]
+![img](img/001.png)
 
 ***
 
@@ -96,8 +91,8 @@ Comanda utilitzada (Windows CMD):
 
     CertUtil -hashfile "ruta\nota_final_curs.txt" SHA256
 
-**Captura requerida:** Hash original  
-\[Inserir captura]
+![img](img/0019.png)
+![img](img/0018.png)
 
 ***
 
@@ -109,8 +104,8 @@ Nou contingut:
 
 Mateix comandament SHA‑256 executat novament.
 
-**Captura requerida:** Hash modificat  
-\[Inserir captura]
+![img](img/0020.png)
+![img](img/0021.png)
 
 ***
 
