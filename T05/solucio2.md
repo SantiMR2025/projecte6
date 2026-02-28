@@ -100,7 +100,7 @@ Objectiu: crear un contenidor segur per emmagatzemar l’examen.
 *   Amb el volum **desmuntat**, el fitxer és inexistent per al sistema.
 
 **Evidència:**  
-*(Inserir imatge 001)*
+![img](img/001.png)
 
 ***
 
@@ -118,7 +118,8 @@ Comanda utilitzada:
     CertUtil -hashfile "ruta\nota_final_curs.txt" SHA256
 
 **Evidències:**  
-*(Imatges 0018 i 0019)*
+![img](img/0019.png)
+![img](img/0018.png)
 
 ***
 
@@ -133,7 +134,8 @@ Nova execució:
     CertUtil -hashfile "ruta\nota_final_curs.txt" SHA256
 
 **Evidències:**  
-*(Imatges 0020 i 0021)*
+![img](img/0020.png)
+![img](img/0021.png)
 
 ***
 
@@ -160,16 +162,3 @@ Nova execució:
     *   Xifratge → *confidencialitat*
     *   Hashing → *integritat*  
         La seguretat completa requereix combinar ambdues tècniques.
-
-***
-
-# 📎 Opcional: Millores de Format
-
-Puc generar:
-
-*   📄 **PDF professional**
-*   📝 **Word (.docx)**
-*   📁 **Carpeta estructurada amb imatges i Markdown**
-*   🧾 Portada + índex automàtic
-
-Només digues què prefereixes!
